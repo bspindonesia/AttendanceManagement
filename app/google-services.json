@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985740085865",
+    "project_id": "bsp-indonesia",
+    "storage_bucket": "bsp-indonesia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985740085865:android:234b989c4be7646a3af0f8",
+        "android_client_info": {
+          "package_name": "com.bsp.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985740085865-ce2dluv083qutpqi9ahgg8g3phd1cvqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw9MXH5AkIKL_yTCEMCM0mVJgoZrUXap0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985740085865-ce2dluv083qutpqi9ahgg8g3phd1cvqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
